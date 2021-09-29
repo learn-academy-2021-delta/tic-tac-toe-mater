@@ -1,5 +1,26 @@
+h1 {
+  text-align: center;
+}
 .square{
   height: 100px;
   width: 100px;
   border: 2px solid black;
+  font-size: 5rem;
+  text-align: center;
 }
+
+.gameboard {
+  display: flex;
+  width: 400px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+
+/* .gameboard {
+  display: grid;
+  grid-template: "repeat(3,1fr) / repeat(3,1fr)";
+  width: 700px;
+  flex-wrap: wrap;
+  margin: 0 auto; */
+/* } */
