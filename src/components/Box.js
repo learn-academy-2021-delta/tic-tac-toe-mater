@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class Square extends Component{
+class Box extends Component{
     handleClick = () => {
       this.props.handleGamePlay(this.props.index)
     }
@@ -29,4 +29,4 @@ class Square extends Component{
     )
   }
 }
-export default Square
+export default Box
