@@ -6,6 +6,7 @@ This project will challenge your knowledge of React but should also be an exerci
 
 ### User Stories:
 - As a user, I should start off seeing a 3x3 grid on the main page.
+<!-- Check -->
 - As a user, I should be able to click on a square to mark it.
 - As a user, my partner should be able to click on a square after me and see their mark.
 - As a user, I shouldn't be able to click on a square that has already been selected.
